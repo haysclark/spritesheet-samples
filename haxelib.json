@@ -1,0 +1,11 @@
+{
+	"name": "spritesheet-samples",
+	"url": "http://github.com/jgranick/spritesheet-samples",
+	"license": "MIT",
+	"tags": [],
+	"description": "Examples for Spritesheet Haxelib",
+	"version": "1.2.1",
+	"releasenote": "Moving example project to spritesheet-samples",
+	"contributors": [ "singmajesty", "haysclark" ],
+	"dependencies": {}
+}
